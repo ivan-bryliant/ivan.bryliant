@@ -1,0 +1,20 @@
+.poc {
+color:green;
+}
+h1,h2 {
+font-weight:bold;
+text-align:center;
+}
+.ul{
+	font-size:17px;font-family:Arial;
+}
+.ol{
+	 font-size:17px;font-family:Arial;
+}
+.photo{
+	margin-right:18px;
+	width:300px;
+}
+.photo01{
+	height:300px;
+}
